@@ -1,0 +1,3 @@
+D:/MyProject/rm_project/axes_practise/cmake-build-debug/CMakeFiles/axes_practise.dir
+D:/MyProject/rm_project/axes_practise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyProject/rm_project/axes_practise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
